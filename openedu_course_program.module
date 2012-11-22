@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the OpenEDU Course/Program feature.
+ */
+
+include_once 'openedu_course_program.features.inc';

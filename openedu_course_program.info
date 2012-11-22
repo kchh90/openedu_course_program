@@ -19,7 +19,6 @@ dependencies[] = link
 dependencies[] = list
 dependencies[] = media
 dependencies[] = multiselect
-dependencies[] = node_reference
 dependencies[] = number
 dependencies[] = options
 dependencies[] = strongarm
